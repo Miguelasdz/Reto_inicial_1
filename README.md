@@ -11,3 +11,10 @@
 |                       Modulo 3               | :heavy_multiplication_x: |
 
 
+#### :bookmark_tabs: Modulo 1
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 

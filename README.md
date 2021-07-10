@@ -12,9 +12,5 @@
 
 
 #### :bookmark_tabs: Modulo 1
-- []
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+#### :bookmark_tabs: Modulo 2
+#### :bookmark_tabs: Modulo 3

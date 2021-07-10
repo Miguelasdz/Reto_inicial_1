@@ -12,7 +12,7 @@
 
 
 #### :bookmark_tabs: Modulo 1
-- [ ]
+- []
 - [ ] 
 - [ ] 
 - [ ] 

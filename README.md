@@ -11,7 +11,7 @@
 |                       Modulo 3               | :heavy_multiplication_x: |
 
 
-#### :bookmark_tabs: Modulo 1
+#### :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
 #### :bookmark_tabs: Modulo 2
 #### :bookmark_tabs: Modulo 3
 ## Autores :pencil2:

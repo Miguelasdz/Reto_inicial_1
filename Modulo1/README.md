@@ -1,11 +1,9 @@
 ### Cloud Computing según privacidad. :closed_lock_with_key:
 Hay **tres** tipos diferentes de modelos en la nube: pública, privada e híbrida. Todas varían en términos del nivel de administración y el nivel de seguridad que proporcionan.
-#### :earth_americas: Nube pública:
-Toda la infraestructura está en las instalaciones del proveedor de la nube, que ofrece estos servicios al cliente a través de Internet. 
-#### :shushing_face: Nube privada:
-Es utilizada exclusivamente por una organización. 
-#### :octopus: Nube híbrida:
-Se alojan las aplicaciones más importantes en sus propios servidores (de la empresa) a, mientras que sus demás aplicaciones se almacenan en las instalaciones del proveedor de la nube.
+
+|            :earth_americas: Nube pública       |      :shushing_face: Nube privada:    | :octopus: Nube híbrida:    |
+|:----------------------------:|:------------------------:|:------------------------:|
+|Toda la infraestructura está en las instalaciones del proveedor de la nube, que ofrece estos servicios al cliente a través de Internet.|Es utilizada exclusivamente por una organización. |Se alojan las aplicaciones más importantes en sus propios servidores (de la empresa) a, mientras que sus demás aplicaciones se almacenan en las instalaciones del proveedor de la nube.|
 
 ### Beneficios de usar Cloud Computing. :gem:
 * La reducción de costos: generalmente usan un modelo de pago por uso *Pagas por lo que Usas*, permite ejecutar la infraestructura de forma eficaz.

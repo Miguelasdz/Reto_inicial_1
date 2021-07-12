@@ -2,24 +2,22 @@
 
 ## :page_facing_up: 
 
-### Reto 1
-
-|                       Modulo                 |    Investigacion         |
-|:--------------------------------------------:|:------------------------:|
-|                       Modulo 1               | :heavy_multiplication_x: | 
-|                       Modulo 2               | :heavy_multiplication_x: | 
-|                       Modulo 3               | :heavy_multiplication_x: |
+# Reto Master.
+## :open_book: Contenido...
+- [Modulo 1: Descripción de conceptos básicos..](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-1--descripci%C3%B3n-de-conceptos-b%C3%A1sicos)
+- [Modulo 2: Conceptos fundamentales de Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-2--conceptos-fundamentales-de-azure)
+- [Modulo 3:  Componentes principales de la arquitectura Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-3-)
 
 
-#### :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
+# :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
 Hablemos sobre el Cloud Computing
 
 ## ¿Qué es el Cloud Computing o Cómputo en la nube?. :interrobang: :cloud:
 Tecnología que te permite acceder a diferentes servicios (almacenamiento, archivos, redes software, etc.) a través de internet en **cualquier lugar** del mundo y en **cualquier momento**.
 
-#### :bookmark_tabs: Modulo 2 : Conceptos fundamentales de Azure.
+# :bookmark_tabs: Modulo 2 : Conceptos fundamentales de Azure.
 
-### Cloud Computing según privacidad. :closed_lock_with_key:
+## Cloud Computing según privacidad. :closed_lock_with_key:
 Hay **tres** tipos diferentes de modelos en la nube: pública, privada e híbrida. Todas varían en términos del nivel de administración y el nivel de seguridad que proporcionan.
 
 |            :earth_americas: Nube pública       |      :shushing_face: Nube privada    | :octopus: Nube híbrida   |
@@ -27,14 +25,14 @@ Hay **tres** tipos diferentes de modelos en la nube: pública, privada e híbrid
 |Toda la infraestructura está en las instalaciones del proveedor de la nube, que ofrece estos servicios al cliente a través de Internet.|Es utilizada exclusivamente por una organización. |Se alojan las aplicaciones más importantes en sus propios servidores (de la empresa) a, mientras que sus demás aplicaciones se almacenan en las instalaciones del proveedor de la nube.|
 |Solo se paga por lo que se usa segun lo que se necesite. | Se debe de adquirir todo desde el inicio y durante el uso de sus servicios, control total por la empresa | Flexibilidad ante todo, se determina en donde se va ejecutar que aplicación, controlan la seguridad y requisitos legales. |
 
-### Beneficios de usar Cloud Computing. :gem:
+## Beneficios de usar Cloud Computing. :gem:
 * La reducción de costos: generalmente usan un modelo de pago por uso *Pagas por lo que Usas*, permite ejecutar la infraestructura de forma eficaz.
 * Escalabilidad y elasticidad de tus recursos acorde a tus necesidades.
 * El trabajo remoto.
 * Disponibilidad de los recursos: siempre se tiene acceso a ellos si hay internet, en **cualquier lugar** del mundo y en **cualquier momento**.
 * Copias de tus aplicaciones: los puedes recuperar si es necesario.
 
-### CapEx :vs: OpEx
+## CapEx :vs: OpEx
 
 |             **CapEx** :moneybag:         |       **OpEx**  :receipt:       |
 |:----------------------------:|:------------------------:|
@@ -45,7 +43,7 @@ Hay **tres** tipos diferentes de modelos en la nube: pública, privada e híbrid
 
 
 
-### Servicios del Cloud Computing. :satellite:
+## Servicios del Cloud Computing. :satellite:
 Hay tres tipos principales de servicios en la nube: *Software as a Service* (*SaaS*), *Platform as a Service* (*PaaS*) e *Infrastructure as a Service* (*IaaS*). No existe un enfoque único, lo ideal es **encontrar la solución adecuada** que respalde los requisitos de tu empresa.
 
 |            **SaaS** :frowning_person:       |       **PaaS**  :man_technologist:    |  **IaaS**  :construction_worker_woman: :computer::gear:  |
@@ -55,8 +53,7 @@ Hay tres tipos principales de servicios en la nube: *Software as a Service* (*Sa
 |Para el usuario final: **APLICACIONES** | Para el desarrollador: **O.S, HERRAMIENTAS, DB** | Para el SysAdmin: **SERVIDORES, ALMACENAMIENTO, FIREWALLS**|
 
 
-#### :bookmark_tabs: Modulo 3 : 
-# Componentes principales de la arquitectura Azure.
+# :bookmark_tabs: Modulo 3 :  Componentes principales de la arquitectura Azure.
 
 ## Zonas de disponibilidad, pares de regiones y regiones de Azure
 

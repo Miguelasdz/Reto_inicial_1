@@ -1,12 +1,10 @@
 # Reto_inicial_1:books:
 
-## :page_facing_up: 
-
 # Reto Master.
 ## :open_book: Contenido...
 - [Modulo 1: Descripción de conceptos básicos..](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-1--descripci%C3%B3n-de-conceptos-b%C3%A1sicos)
 - [Modulo 2: Conceptos fundamentales de Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-2--conceptos-fundamentales-de-azure)
-- [Modulo 3:  Componentes principales de la arquitectura Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-3-)
+- [Modulo 3:  Componentes principales de la arquitectura Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-3---componentes-principales-de-la-arquitectura-azure)
 
 
 # :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.

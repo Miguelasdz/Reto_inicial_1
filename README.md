@@ -6,10 +6,39 @@
 
 
 # :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
-Hablemos sobre el Cloud Computing
 
 ## ¿Qué es el Cloud Computing o Cómputo en la nube?. :interrobang: :cloud:
 Tecnología que te permite acceder a diferentes servicios (almacenamiento, archivos, redes software, etc.) a través de internet en **cualquier lugar** del mundo y en **cualquier momento**.
+
+# ¿Por qué usar la informática en la nube?:interrobang:
+
+* Reducir los costos operativos.
+* Ejecutar la infraestructura de forma más eficaz.
+* Escalar a medida que cambien las necesidades empresariales.
+
+# ¿Qué es Azure? :cloud:
+
+Es un conjunto de servicios en la nube en expansión constante que ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+
+# ¿Qué ofrece Azure? :chart_with_upwards_trend:
+
+* **Esté preparado para el futuro:** la innovación continua de Microsoft apoya el desarrollo actual y los proyectos de productos para el futuro.
+* **Cree a su ritmo:** Tiene opciones. Si mantiene un compromiso con el código abierto y admite todos los lenguajes y marcos, puede compilar como quiera e implementar donde quiera.
+* **Opere en el entorno híbrido sin problemas:** ya sea en el entorno local, en la nube o en el entorno perimetral, le apoyaremos donde esté. Integre y administre los entornos con herramientas y servicios diseñados para una solución de nube híbrida.
+* **Confíe en la nube:** obtenga seguridad desde el principio, respaldada por un equipo de expertos, y un cumplimiento proactivo de confianza para las empresas consolidadas, los gobiernos y las nuevas empresas.
+
+# Los servicios de Azure :bookmark:
+
+* Procesos
+* Redes
+* Almacenamiento
+* Móvil
+* Bases de datos
+* Web
+* IoT
+* Macrodatos
+* Inteligencia Artificial
+* DevOps
 
 # :bookmark_tabs: Modulo 2 : Conceptos fundamentales de Azure.
 

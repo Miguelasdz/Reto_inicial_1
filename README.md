@@ -7,7 +7,7 @@
 
 # :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
 
-## ¿Qué es el Cloud Computing o Cómputo en la nube?. :interrobang: :cloud:
+# ¿Qué es el Cloud Computing o Cómputo en la nube?. :interrobang: :cloud:
 Tecnología que te permite acceder a diferentes servicios (almacenamiento, archivos, redes software, etc.) a través de internet en **cualquier lugar** del mundo y en **cualquier momento**.
 
 # ¿Por qué usar la informática en la nube?:interrobang:

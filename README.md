@@ -1,6 +1,4 @@
-# Reto_inicial_1:books:
-
-# Reto Master.
+# Reto_inicial_1 : Reto Master. :books:
 ## :open_book: Contenido...
 - [Modulo 1: Descripción de conceptos básicos..](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-1--descripci%C3%B3n-de-conceptos-b%C3%A1sicos)
 - [Modulo 2: Conceptos fundamentales de Azure.](https://github.com/Miguelasdz/Reto_inicial_1#bookmark_tabs-modulo-2--conceptos-fundamentales-de-azure)

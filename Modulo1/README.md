@@ -4,6 +4,7 @@ Hay **tres** tipos diferentes de modelos en la nube: pública, privada e híbrid
 |            :earth_americas: Nube pública       |      :shushing_face: Nube privada    | :octopus: Nube híbrida   |
 |:----------------------------:|:------------------------:|:------------------------:|
 |Toda la infraestructura está en las instalaciones del proveedor de la nube, que ofrece estos servicios al cliente a través de Internet.|Es utilizada exclusivamente por una organización. |Se alojan las aplicaciones más importantes en sus propios servidores (de la empresa) a, mientras que sus demás aplicaciones se almacenan en las instalaciones del proveedor de la nube.|
+|Solo se paga por lo que se usa segun lo que se necesite. | Se debe de adquirir todo desde el inicio y durante el uso de sus servicios, control total por la empresa | Flexibilidad ante todo, se determina en donde se va ejecutar que aplicación, controlan la seguridad y requisitos legales. |
 
 ### Beneficios de usar Cloud Computing. :gem:
 * La reducción de costos: generalmente usan un modelo de pago por uso *Pagas por lo que Usas*, permite ejecutar la infraestructura de forma eficaz.

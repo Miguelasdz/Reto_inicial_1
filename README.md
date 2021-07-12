@@ -12,7 +12,13 @@
 
 
 #### :bookmark_tabs: Modulo 1 : Descripción de conceptos básicos.
-#### :bookmark_tabs: Modulo 2
+Hablemos sobre el Cloud Computing
+
+## ¿Qué es el Cloud Computing o Cómputo en la nube?. :interrobang: :cloud:
+Tecnología que te permite acceder a diferentes servicios (almacenamiento, archivos, redes software, etc.) a través de internet en **cualquier lugar** del mundo y en **cualquier momento**.
+
+#### :bookmark_tabs: Modulo 2 : Conceptos fundamentales de Azure
+
 #### :bookmark_tabs: Modulo 3 : 
 # Componentes principales de la arquitectura Azure.
 

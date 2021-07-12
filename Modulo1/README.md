@@ -14,22 +14,25 @@ Se alojan las aplicaciones más importantes en sus propios servidores (de la emp
 * Disponibilidad de los recursos: siempre se tiene acceso a ellos si hay internet, en **cualquier lugar** del mundo y en **cualquier momento**.
 * Copias de tus aplicaciones: los puedes recuperar si es necesario.
 
-### Gastos de Capital VS Gastos operativos
+### CapEx VS OpEx
 
-|              Capital         |       Operativos         |
+|             **CapEx** :moneybag:         |       **OpEx**  :receipt:       |
 |:----------------------------:|:------------------------:|
-|                       Modul  |                          |
+| Los **gastos de capital** es la inversión previa de dinero en infraestructura física, tiene un valor que disminuye con el tiempo.  |       Los **gastos operativos** es dinero que se invierte en servicios o productos y se factura al instante.  * Por la forma de consumo los **servicios de la nube** se clasifican como OpEx *                |
+
+
+
 
 
 
 ### Servicios del Cloud Computing. :satellite:
 Hay tres tipos principales de servicios en la nube: *Software as a Service* (*SaaS*), *Platform as a Service* (*PaaS*) e *Infrastructure as a Service* (*IaaS*). No existe un enfoque único, lo ideal es **encontrar la solución adecuada** que respalde los requisitos de tu empresa.
 
-- **SaaS**: las aplicaciones del cliente están alojadas en las instalaciones del proveedor de la nube. **APLICACIONES**
-
-- **PaaS**: brinda la ventaja de acceder a las herramientas de desarrollo que necesitan para crear y administrar sus aplicaciones. **O.S, HERRAMIENTAS, DB**
-
-- **IaaS**: permite acceder a servicios de infraestructura a pedido a través de Internet.**SERVIDORES, ALMACENAMIENTO, FIREWALLS**
+|            **SaaS**        |       **PaaS**      |  **IaaS**    |
+|:----------------------------:|:------------------------:|:------------------------:|
+|Las **aplicaciones** del cliente están alojadas en las instalaciones del proveedor de la nube.| Brinda la ventaja de acceder a las herramientas de desarrollo que necesitan para crear y administrar sus aplicaciones. |    permite acceder a servicios de infraestructura a pedido a través de Internet   |
+|Sin CapEX, no hay costo inicial. | Sin CapEX, se opera bajo el modelo OpEx| Sin CapEX, se opera bajo el modelo OpEx|
+|Para el usuario final: **APLICACIONES** | Para el desarrollador: **O.S, HERRAMIENTAS, DB** | Para el SysAdmin: **SERVIDORES, ALMACENAMIENTO, FIREWALLS**|
 
 
 
